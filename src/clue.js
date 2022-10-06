@@ -126,5 +126,9 @@ function pickMystery() {
 
 // ITERATION 3
 
-function revealMystery() {}
+function revealMystery(solved) {
+
+
+    return solved + " ";
+}
 
